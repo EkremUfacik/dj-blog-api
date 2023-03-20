@@ -7,11 +7,11 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Flight Reservation API",
+        title="Blog App API",
         default_version="v1",
-        description="Flight Reservation API project provides flight and reservation info",
+        description="Blog App API",
         terms_of_service="#",
-        contact=openapi.Contact(email="hamzaaygan1995@gmail.com"), 
+        contact=openapi.Contact(email="ekremufacik07@gmail.com"), 
         license=openapi.License(name="BSD License"),
     ),
     public=True,
