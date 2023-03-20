@@ -1,4 +1,4 @@
-# dj-blog-api
+# Django Blog Api
 
 ### You can check the documents :
 https://ekremu.pythonanywhere.com/redoc/
